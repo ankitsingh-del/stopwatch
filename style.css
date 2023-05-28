@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#wrapper {
+  text-align: centre;
+
+  .buttons_style {
+    color: red;
+    background-color: green;
+
+  }
+
+  .buttons_style:hover {
+    color: yellow;
+    color: white;
+  }
+
+  #wrapper {
+    position: relative;
+    text-align: center;
+    margin-top: -100px;
+  }
+
+  #buttons {
+    margin-top: -50vh;
+    margin-left: 10vh;
+  }
+
+  #tens {
+    font-size: 30px;
+    color: silver;
+  }
+
+  #seconds {
+    font-size: 30px;
+    color: silver;
+  }
